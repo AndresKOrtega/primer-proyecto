@@ -1,0 +1,22 @@
+{
+  "name": "primer-proyecto",
+  "version": "1.0.0",
+  "description": "\"# Mi primer proyecto\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresKOrtega/primer-proyecto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AndresKOrtega/primer-proyecto/issues"
+  },
+  "homepage": "https://github.com/AndresKOrtega/primer-proyecto#readme"
+}
+
